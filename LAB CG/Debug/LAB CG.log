@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Nitro\source\repos\LAB CG\LAB CG\Source.cpp(1202,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LAB CG.vcxproj -> C:\Users\Nitro\source\repos\LAB CG\Debug\LAB CG.exe
